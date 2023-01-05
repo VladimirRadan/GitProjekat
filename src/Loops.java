@@ -10,14 +10,6 @@ public class Loops {
         System.out.println("Promena 5");
     }
 
-
-
-
-
-
-
-
-
     //server -  github ---------------------- main/master
     //                 ------------------------- feature/add-new-changes --> pull/merge request
 
